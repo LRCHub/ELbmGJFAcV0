@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Calling",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-27T06:26:29.252811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Death In June",
+      "has_synced": false,
+      "path": "select/01_The_Calling_Death_In_June.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Calling (Mk II)",
+      "artist": "Death In June",
+      "has_synced": true,
+      "path": "select/02_The_Calling_(Mk_II)_Death_In_June.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/03_The_Calling_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Imperia",
+      "has_synced": false,
+      "path": "select/04_The_Calling_Imperia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Fates Warning",
+      "has_synced": true,
+      "path": "select/05_The_Calling_Fates_Warning.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Calling (rehearsal 1983)",
+      "artist": "Fates Warning",
+      "has_synced": false,
+      "path": "select/06_The_Calling_(rehearsal_1983)_Fates_Warning.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/07_The_Calling_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Jennifer Paige",
+      "has_synced": true,
+      "path": "select/08_The_Calling_Jennifer_Paige.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/09_The_Calling_Yes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Calling (Da Tweekaz Remix)",
+      "artist": "TheFatRat feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/10_The_Calling_(Da_Tweekaz_Remix)_TheFatRat_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Calling (Da Tweekaz Remix)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/11_The_Calling_(Da_Tweekaz_Remix)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Calling (Timmy Caden Remix)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/12_The_Calling_(Timmy_Caden_Remix)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Calling (feat. Laura Brehm)",
+      "artist": "TheFatRat feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/13_The_Calling_(feat._Laura_Brehm)_TheFatRat_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Calling (feat. Laura Brehm)",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/14_The_Calling_(feat._Laura_Brehm)_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/15_The_Calling_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "vader",
+      "has_synced": true,
+      "path": "select/16_The_Calling_vader.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Calling",
+      "artist": "Northlane",
+      "has_synced": false,
+      "path": "select/17_The_Calling_Northlane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Calling",
+      "artist": "TheFatRat",
+      "has_synced": false,
+      "path": "select/pl_01_The_Calling_TheFatRat.txt"
+    }
+  ]
+}
